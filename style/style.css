@@ -1,0 +1,66 @@
+.second-col{
+  
+   width: 600px;
+}
+.banner-1{
+    width: 1440px;
+    height: 608px;
+}
+.second-pic{
+    width: 400px;
+}
+.failuer{
+    margin-top: 40px;
+}
+.bunous-section{
+   
+    background-image: url("/images/watch.png"), linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    
+    background-blend-mode: overlay;
+  
+    width: 1140px;
+    height: 300px;
+    /* margin-left: 80px; */
+    border-radius: 8px;
+ 
+ 
+}
+.text-bunous{
+   
+    padding-left: 20px;
+   
+}
+.text{
+    margin-top: 50px;
+}
+footer{
+    width: 1600px;
+height: 477px;
+background: var(--Dark-01, #151414);
+}
+.btn-1{
+    color:  #FFF;;
+    width: 100px;
+height: 45px;
+border: none;
+border-radius: 5px;
+background: #F15B22;
+}
+.btn-2{
+    color: #F15B22;
+
+
+    border-radius: 5px;
+background: #FFF;
+width: 100px;
+height: 34px;
+border: none;
+
+}
+input{
+    width: 325px;
+height: 24px;
+border-radius: 8px;
+border: 1px solid #FFF;
+padding: 20px;
+}
